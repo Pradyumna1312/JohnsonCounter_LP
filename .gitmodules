@@ -1,0 +1,3 @@
+[submodule "pytest"]
+	path = pytest
+	url = /home/pradyumna/Verilog_files/JohnsonCounter/pytest/

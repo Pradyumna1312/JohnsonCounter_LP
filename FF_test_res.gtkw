@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Sat Oct  8 11:12:26 2022
+[*]
+[dumpfile] "/home/pradyumna/Verilog_files/JohnsonCounter/FF_test.vcd"
+[dumpfile_mtime] "Sat Oct  8 11:11:28 2022"
+[dumpfile_size] 667
+[savefile] "/home/pradyumna/Verilog_files/JohnsonCounter/FF_test_res.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-4.284107 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+FF_Tb.D
+FF_Tb.clk
+FF_Tb.reset
+@29
+FF_Tb.Q
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,10 +1,8 @@
 module FlipFlop(input D, clk, reset, output reg Q);
-wire res_clk;
-assign resclk = ~reset & clk;
-always@(posedge res_clk)
+always@(posedge clk, posedge reset) 
 begin
-if(reset != 0)
+if(reset == 1'b0)
 Q<=D;
-else Q<=0;
+else Q<=1'b0;
 end
 endmodule
