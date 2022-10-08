@@ -1,1 +1,1 @@
-# JohnsonCounter_LP
+# Low Power Johnson Counter
